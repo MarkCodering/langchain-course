@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain-openai    
+langchain-community
+langgraph
+langchain-cli
+langsmith
+langchain-chroma>=0.1.2
