@@ -6,3 +6,4 @@ langgraph
 langchain-cli
 langsmith
 langchain-chroma>=0.1.2
+langchain-anthropic
