@@ -8,3 +8,4 @@ langsmith
 langchain-chroma>=0.1.2
 langchain-anthropic
 pysqlite3-binary
+langchain_google_genai
