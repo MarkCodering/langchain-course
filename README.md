@@ -28,18 +28,14 @@ pip install -r requirements.txt
 
 ## Course Outline
 
-1. **Introduction to LangChain**
-    - Overview
-    - Key Features
-2. **Setting Up Your Environment**
-    - Installation
-    - Configuration
-3. **Building Your First Model**
-    - Data Preparation
-    - Model Training
-4. **Advanced Topics**
-    - Custom Components
-    - Optimization Techniques
+- Chapter 1: Introduction to Generative AI and LangChain  
+- Chapter 2: Working with LLMs – From Embedding to Chat Models  
+- Chapter 3: Document Handling – Using Document Loaders in LangChain  
+- Chapter 4: Data Storage – Vector Data Stores and Context Retrieval  
+- Chapter 5: Essential Tools – LangChain Tooling and Code Integration  
+- Chapter 6: Agents and Decision-Making – LangGraph Agent Applications  
+- Chapter 7: LangChain on Platforms – Integrating LLMs across platforms  
+- Chapter 8: Building Applications – LangChain APIs for Chatbots, RAG, and Agentic Models  
 
 ## Contributing
 
@@ -48,4 +44,3 @@ We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
