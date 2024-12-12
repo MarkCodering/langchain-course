@@ -21,7 +21,7 @@ LangChain is a framework designed to simplify the process of creating and deploy
 To get started, clone this repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/langchain-course.git
+git clone https://github.com/MarkCodering/langchain-course.git
 cd langchain-course
 pip install -r requirements.txt
 ```
