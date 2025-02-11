@@ -11,6 +11,7 @@ Welcome to the LangChain Course! This repository contains all the materials and 
   - [Course Outline](#course-outline)
   - [Contributing](#contributing)
   - [License](#license)
+  - [Documentation](#documentation)
 
 ## Introduction
 
@@ -39,8 +40,12 @@ pip install -r requirements.txt
 
 ## Contributing
 
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions! Please read our [contributing guidelines](docs/CONTRIBUTING.md) to get started.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](docs/LICENSE.md) file for more details.
+
+## Documentation
+
+For more detailed information, please refer to the [documentation](docs/README.md).
